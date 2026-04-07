@@ -21,3 +21,17 @@ Automates licence assignment and provides visibility into licence usage.
 - Licence management  
 - Cost optimisation  
 - Reporting and analysis  
+
+
+## Set-M365LicenseAssignment.ps1
+
+Automates Microsoft 365 licence assignment for users from a CSV input file.
+
+### Key outputs
+- assigns licences based on SKU part number
+- skips users who already have the licence
+- logs successes, skips, and failures
+- improves consistency in licence allocation
+
+### Use case
+Supports bulk licence assignment, onboarding workflows, and more efficient Microsoft 365 administration.
