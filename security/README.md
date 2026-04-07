@@ -50,3 +50,17 @@ Generates a report of Microsoft Entra directory roles and their assigned members
 
 ### Use case
 Supports privileged access reviews, governance checks, and audit readiness by improving visibility of elevated role assignments.
+
+## Get-ConditionalAccessPostureReport.ps1
+
+Generates a report of Conditional Access policies in Microsoft Entra ID.
+
+### Key outputs
+- policy names and states
+- included and excluded users, groups, and roles
+- targeted applications and locations
+- grant controls such as MFA
+- session controls such as sign-in frequency
+
+### Use case
+Supports security posture reviews, Conditional Access governance, and policy visibility across the tenant.
