@@ -33,6 +33,8 @@ Generates a report of inactive Microsoft 365 users based on last sign-in activit
 - department and job title
 - review reason
 
+### Use case
+Supports governance reviews, licence optimisation, and security checks by identifying dormant or unused accounts.
 
 ## Invoke-AccessReviewAutomation.ps1
 
@@ -47,5 +49,4 @@ Generates an access review report to support governance checks across user accou
 
 ### Use case
 Supports identity governance, least-privilege reviews, and periodic access review processes across Microsoft Entra ID.
-### Use case
-Supports governance reviews, licence optimisation, and security checks by identifying dormant or unused accounts.
+
