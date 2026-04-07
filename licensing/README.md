@@ -33,6 +33,9 @@ Automates Microsoft 365 licence assignment for users from a CSV input file.
 - logs successes, skips, and failures
 - improves consistency in licence allocation
 
+### Use case
+Supports bulk licence assignment, onboarding workflows, and more efficient Microsoft 365 administration.
+
 
 ## Get-M365LicenseUsageReport.ps1
 
@@ -48,5 +51,4 @@ Generates a Microsoft 365 licence usage report showing enabled, consumed, and av
 
 ### Use case
 Supports licence optimisation, cost awareness, and reporting by providing visibility into Microsoft 365 licence utilisation across the tenant.
-### Use case
-Supports bulk licence assignment, onboarding workflows, and more efficient Microsoft 365 administration.
+
