@@ -36,3 +36,17 @@ Generates a report showing MFA registration and authentication method status for
 
 ### Use case
 Supports security reviews, governance checks, and MFA posture reporting across the tenant.
+
+## Get-PrivilegedAccessRoleAudit.ps1
+
+Generates a report of Microsoft Entra directory roles and their assigned members.
+
+### Key outputs
+- active directory roles
+- assigned members per role
+- user principal names
+- object types
+- empty privileged roles
+
+### Use case
+Supports privileged access reviews, governance checks, and audit readiness by improving visibility of elevated role assignments.
