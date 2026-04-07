@@ -21,4 +21,18 @@ Supports monitoring and governance of identity, access, and security configurati
 ## 🚀 Use Cases
 - Security audits  
 - Compliance checks  
-- Risk identification  
+- Risk identification
+
+## Get-M365MfaStatusReport.ps1
+
+Generates a report showing MFA registration and authentication method status for Microsoft 365 users.
+
+### Key outputs
+- MFA registration status
+- registered authentication methods
+- default MFA method
+- admin account visibility
+- passwordless and SSPR capability
+
+### Use case
+Supports security reviews, governance checks, and MFA posture reporting across the tenant.
