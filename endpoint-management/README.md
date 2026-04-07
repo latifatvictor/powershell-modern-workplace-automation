@@ -20,3 +20,19 @@ Improves visibility and management of endpoint devices.
 - Device hygiene  
 - Endpoint optimisation  
 - Inventory cleanup  
+
+
+## Invoke-IntuneDeviceCleanup.ps1
+
+Identifies stale managed devices in Microsoft Intune and optionally retires them.
+
+### Key outputs
+- device name and user principal name
+- operating system and OS version
+- compliance state
+- last sync date
+- inactive days
+- cleanup action taken
+
+### Use case
+Supports endpoint hygiene, device lifecycle governance, and cleanup of stale Intune-managed devices to improve visibility and reduce clutter.
