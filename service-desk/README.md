@@ -19,3 +19,17 @@ Improves efficiency in handling frequent user support requests.
 - Service desk operations  
 - User support  
 - Incident resolution  
+
+
+## Invoke-PasswordResetSupport.ps1
+
+Automates password reset support for single or multiple Microsoft 365 users.
+
+### Key outputs
+- password reset for one or more users
+- optional temporary password generation
+- forced password change at next sign-in
+- success and failure logging
+
+### Use case
+Supports service desk operations by improving speed and consistency in handling password reset requests for Microsoft 365 users.
