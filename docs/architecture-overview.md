@@ -33,7 +33,3 @@ The architecture follows a **modular and domain-based structure**, enabling scal
            |        |        |        |        |
            v        v        v        v        v
       Onboarding  Security  Licensing  Endpoint  Governance
-
-
-
-
